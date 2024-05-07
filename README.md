@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @samp98u
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Boas vindas ao meu perfil 
 
-<!---
-samp98u/samp98u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é sam
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido
+
+![descrição do GIF](link GIF do Tenor)
+
